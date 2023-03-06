@@ -3,7 +3,7 @@ package com.in28minutes.java.oops.inheritance;
 abstract class Animal {
 	String name;
 
-	//cool functionality
+	// not such a cool functionality
 	abstract String bark();
 }
 
